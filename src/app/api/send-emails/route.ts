@@ -47,17 +47,17 @@ export async function POST(request: Request) {
         "Other (office)": "williampower@batp.org"
       },
       Bucks: {
-        "Employment (HR)": "vincentiaadams@batp.org",
+       "Employment (HR)": "kareema.graham@batp.org",
         "Services (Case Management)": "qwenton.balawejder@batp.org",
         "Other (office)": "chantellebosier@batp.org"
       },
       Delaware: {
-        "Employment (HR)": "vincentiaadams@batp.org",
+        "Employment (HR)": "kareema.graham@batp.org",
         "Services (Case Management)": "qwenton.balawejder@batp.org",
         "Other (office)": "chantellebosier@batp.org"
       },
       Montgomery: {
-        "Employment (HR)": "vincentiaadams@batp.org",
+        "Employment (HR)": "kareema.graham@batp.org",
         "Services (Case Management)": "qwenton.balawejder@batp.org",
         "Other (office)": "chantellebosier@batp.org"
       }

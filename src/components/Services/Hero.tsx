@@ -147,19 +147,11 @@ export default function Hero() {
      <h2 className="text-2xl md:text-4xl font-bold text-blue-500    ">Early Intervention (Ages Birth–5)
      </h2>
      <p className="text-lg  text-black mt-4">
-     Our Early Intervention program supports children aged birth to 5 with developmental needs.
+     Our Early Intervention program uses an Applied Behavior Analysis (ABA) approach tailored for children aged Birth to 5. This vital service takes place in homes & daycare centers, focusing on enhancing each child’s development through personalized support.
+The work is often guided by an Individualized Family Service Program (IFSP), Individual Education Plan (IEP), or a Functional Behavior Assessment (FBA). Our dedicated Personal Care Assistants work closely with just one child, ensuring focused attention and care. Collaboration is key; we work alongside other professionals, including Occupational Therapists, Educators, Medical professionals, and Speech & Language Therapists, to create a comprehensive support network.
+We proudly provide these services in partnership with Elwyn, ChildLink/PHMC, and the State of Pennsylvania, aiming to foster positive outcomes for every child we serve.
 
-     </p>   <p className="text-lg  text-black mt-2">
-     ⦁	We use ABA techniques in daycare settings to help children grow and learn.
-
-     </p><p className="text-lg  text-black mt-2">
-     ⦁	Care is guided by an Individualized Education Program (IEP) or Functional Behavior Assessment (FBA).
-
-     </p>   <p className="text-lg  text-black mt-2">
-     ⦁	We work with Occupational Therapists, Speech Therapists, and other professionals to provide well-rounded support.
-
-     
-     </p>
+     </p>  
    </div>
  </div>
  {/* 4th */}
@@ -251,21 +243,34 @@ export default function Hero() {
 
      </h2>
      <p className="text-lg  text-black mt-4">
-     All our services are fully covered for nearly every individual under 21 through PA Medicaid.
+    Most individuals under 21 are eligible for our services at no cost through Medicaid.
+
+
 
      </p>   <p className="text-lg  text-black mt-2">
-     Contact BATP directly for assistance. <br />
-267-507-2719 – Philadelphia <br />
-610-664-6200 - Delaware, Montgomery, Bucks counties.
-
-     </p><p className="text-lg  text-black py-9">
+   You can call BATP care coordinators to assist you in obtaining funding and authorization for services at the following numbers: <br />
+{/* 267-507-2719 – Philadelphia <br />
+610-664-6200 - Delaware, Montgomery, Bucks counties. */}
+</p>
+     {/* <p className="text-lg  text-black py-9">
      Or here are the Medicaid insurance company phone numbers for your location.
 
-     </p>   <p className="text-lg  text-black mt-2">
-   <span className="font-bold"> Philadelphia: </span> Community Behavioral Health (CBH) 888.545-2600 <br />
-   <span className="font-bold"> Montgomery & Bucks Counties: </span> Magellan Behavioral Health (MBH) 877.769-9782 <br />
-   <span className="font-bold"> Delaware County: </span> Community Care Behavioral Health (CCBH) 833.577-2682
+     </p> */}
+     
+        <p className="text-lg  text-black mt-2">
+   <span className="font-bold"> Philadelphia: </span> 267-507-2719  <br />
+   <span className="font-bold"> Bucks, Montgomery, and Delaware</span>610-664-6200<br />
+      <br/>
+    <p>Or contact your local insurance company directly at:
+</p>
+   <span className="font-bold"> Philadelphia – Community Behavioral Health (CBH)
+</span> 88-545-2600 <br />
+   <span className="font-bold"> Bucks and Montgomery – Magellan Behavioral Health (MBH)
+</span>877-769-9782  <br />
+   <span className="font-bold"> Delaware – Community Care Behavioral Health (CCBH)
+</span>833-577-2682 <br />
 
+ 
 
      
      </p>

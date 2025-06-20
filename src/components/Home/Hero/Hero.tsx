@@ -107,13 +107,14 @@ const Hero: React.FC = () => {
 
         {/*  */}
 
-        <h2 className="text-3xl font-semibold pt-4">Payment Options</h2>
+        <h2 className="text-3xl font-semibold pt-4">Who Pays for Services</h2>
 
         <p className="text-lg text-gray-600">
-        All services are free to families .
-          <br />
-          <br />
-          Nearly all individuals under 21 are eligible for our services at no cost.  We are paid by PA Medicaid. If you do not have coverage yet, call us. If you do have PA Medicaid contact us to pursue authorization for services.
+        {/* All services are free to families . */}
+          
+          Cost of services are covered by Medicaid and most private insurances. Nearly all individuals under 21 are eligible for our free services.
+          If you do have PA Medicaid, contact us to pursue authorization for services.
+          If you do not have coverage yet, call us.
 
 
         </p>

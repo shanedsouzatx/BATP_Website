@@ -22,7 +22,7 @@ const JobApplication = () => {
   const jobLocations = [
     "Bala Cynwyd Office",
     "Philadelphia Office", 
-    "South Philadelphia Satellite Office"
+    
   ];
 
   const jobRoles = [

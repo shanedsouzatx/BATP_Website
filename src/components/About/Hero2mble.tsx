@@ -38,7 +38,7 @@ const Hero2mble: React.FC = () => {
         </p>
         
         {/*  */}
-        <h2 className="text-3xl font-bold pt-5 ">Gary Ames, M.A., M.B.A.
+        <h2 className="text-3xl font-bold pt-5 ">Gary Ames, MA, MBA, BCN.
         </h2><h2 className="text-md font-semibold">Co-Founder
         </h2>
         <p className="text-lg text-black">
@@ -52,13 +52,14 @@ Learn more at:
         </p>
        
         {/*  */}
-        <h2 className="text-3xl font-bold pt-5">Halina Dziewolska
+        <h2 className="text-3xl font-bold pt-5">Halina Dziewolska M.Ed., M.S.Ed., LBS, BCBA
         </h2><h2 className="text-md font-semibold">Co-Manager & Clinical Supervisor
 
         </h2>
         <p className="text-lg text-black">
         Halina Dziewolska holds a master’s in education and an MS in Special Education with a concentration in Applied Behavior Analysis. As a Board-Certified Behavior Analyst and a licensed Behavior Specialist in Pennsylvania, she has dedicated her career to serving children with developmental disabilities and emotional-behavioral disorders since 2000. Halina has served on the faculty at St. Joseph’s University and Arcadia University, and she provides clinical supervision at BATP while co-managing the organization.
-        </p><h2 className="text-3xl font-bold pt-3">Lynn Santilli Connor
+        </p><h2 className="text-3xl font-bold pt-3">Lynn Santilli Connor, LCSW, BCBA
+
         </h2><h2 className="text-lg font-semibold">Executive Director
 
         </h2>
