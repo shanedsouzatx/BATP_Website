@@ -38,7 +38,7 @@ export default function Footer() {
 
             <p>
               If you want to join our team{" "}
-              <Link href="/careers" className="underline">
+              <Link href="/join-our-team" className="underline">
                 Click Here.
               </Link>
             </p>
