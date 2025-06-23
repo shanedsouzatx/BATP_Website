@@ -29,8 +29,6 @@ const Hero2: React.FC = () => {
         {/*  */}
         <h2 className="text-3xl font-bold">Joseph Cautilli, Ph.D., MSCP, LP, LPC, LBS, BCBA-D, C-DBT, CMNCS 
         </h2> 
-        <h2 className="text-md font-bold">Co-Founder & Clinical Director  
-        </h2>
 
         <h2>
           <strong>
@@ -42,6 +40,9 @@ const Hero2: React.FC = () => {
             Certified Mental Health & Nutrition Clinical Specialist<br />
             </strong>
         </h2>
+        <h2 className="text-md font-bold">Co-Founder & Clinical Director  
+        </h2>
+
         <p className="text-lg text-black">
         Dr. Joseph Cautilli is a licensed clinical psychologist, professional counselor, and a Board-Certified Behavior Analyst-D. With a career spanning since 1984, he has addressed the behavioral health and rehabilitation needs of children and adults facing severe mental health conditions, emotional behavior disorders, and psychiatric disorders, including autism spectrum disorders, depression, and developmental disabilities. Additionally, Dr. Cautilli has experience in criminal justice, focusing on the rehabilitation of offenders in both jails and the community. He is internationally recognized for his treatment work and adherence to ethical standards. 
         </p>
