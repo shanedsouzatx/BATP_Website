@@ -33,13 +33,14 @@ const Hero2: React.FC = () => {
         </h2>
 
         <h2>
-
+          <strong>
             Licensed Psychologist, PA, NJ, DE <br />
             Licensed Professional Counselor<br />
             Licensed Behavior Specialist<br />
             Board Certified Behavior Analyst- Doctoral Level<br />
             Certified Dialectical Behavior Therapy<br />
             Certified Mental Health & Nutrition Clinical Specialist<br />
+            </strong>
         </h2>
         <p className="text-lg text-black">
         Dr. Joseph Cautilli is a licensed clinical psychologist, professional counselor, and a Board-Certified Behavior Analyst-D. With a career spanning since 1984, he has addressed the behavioral health and rehabilitation needs of children and adults facing severe mental health conditions, emotional behavior disorders, and psychiatric disorders, including autism spectrum disorders, depression, and developmental disabilities. Additionally, Dr. Cautilli has experience in criminal justice, focusing on the rehabilitation of offenders in both jails and the community. He is internationally recognized for his treatment work and adherence to ethical standards. 
