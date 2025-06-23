@@ -266,11 +266,10 @@ We proudly provide these services in partnership with Elwyn, ChildLink/PHMC, and
    <span className="font-bold"> Philadelphia – Community Behavioral Health (CBH)
 </span> 888-545-2600 <br />
    <span className="font-bold"> Bucks and Montgomery – Magellan Behavioral Health (MBH)
-</span>877-769-9782  <br />
+</span> 877-769-9782  <br /><br />
    <span className="font-bold"> Delaware – Community Care Behavioral Health (CCBH)
-</span>833-577-2682 <br />
+</span> 833-577-2682 <br />
 
- 
 
      
      </p>

@@ -27,7 +27,8 @@ const Hero2: React.FC = () => {
         <p className="text-lg text-black">
         At Behavior Analysis & Therapy Partners (BATP), our leadership team brings together a wealth of experience and expertise in behavioral health. Each member provides exceptional care and support to our clients and their families. </p>
         {/*  */}
-        <h2 className="text-3xl font-bold">Joseph Cautilli, Ph.D.
+        <h2 className="text-3xl font-bold">Joseph Cautilli, Ph.D., MSCP, LP, LPC, LBS, BCBA-D, C-DBT, CMNCS 
+
         </h2> <h2 className="text-md font-bold">Co-Founder & Clinical Director  
         </h2>
         <p className="text-lg text-black">
