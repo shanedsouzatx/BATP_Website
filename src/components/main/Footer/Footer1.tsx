@@ -70,7 +70,7 @@ export default function Footer() {
         {/* Bottom Copyright */}
         <div className="border-t border-white/20 mt-8 pt-4 flex flex-col md:flex-row justify-between text-sm">
           <div>Copyright © 2025 BATP, All Rights Reserved</div>
-          <div className="mt-2 md:mt-0">
+          {/* <div className="mt-2 md:mt-0">
             <span  className="">
               Terms & Conditions
             </span>
@@ -78,7 +78,7 @@ export default function Footer() {
             <Link href="/legal-/-privacy" className="hover:underline">
               Privacy Policy
             </Link>
-          </div>
+          </div> */}
         </div>
       </div>
     </footer>

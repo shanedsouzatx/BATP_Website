@@ -36,7 +36,7 @@ const Heromble: React.FC = () => {
         139 Montgomery Avenue, #110, Bala Cynwyd, PA 19004
 
         </p> <p className="text-lg text-gray-600">
-        <Link href="mailto:chantellebosier@batp.org" className="">chantellebosier@batp.org</Link>{" "}
+        <Link href="mailto:chantellebosier@batp.org" className="">ChantelleBosier@BATP.org </Link>{" "}
     
         </p>
        

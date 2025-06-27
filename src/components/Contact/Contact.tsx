@@ -130,7 +130,7 @@ const Contact: React.FC = () => {
             <div>
               <p className="font-semibold">Email</p>
               <Link href="mailto:chantellebosier@batp.org" className="text-blue-600 hover:underline">
-                chantellebosier@batp.org
+                ChantelleBosier@BATP.org
               </Link>
             </div>
           </div>
@@ -281,7 +281,7 @@ const Contact: React.FC = () => {
         <hr className="border-blue-500 w-16 mt-2 mb-4" />
         <p className="text-gray-700">
           Have questions? Interested in working with us? Send us an{" "}
-          <Link href="mailto:chantellebosier@botp.org" className="text-blue-600 hover:underline">
+          <Link href="mailto:chantellebosier@batp.org" className="text-blue-600 hover:underline">
             Email
           </Link>{" "}
           to schedule a talk with us.
