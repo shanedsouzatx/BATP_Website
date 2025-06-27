@@ -24,7 +24,7 @@ export default function Benefits() {
      If you are passionate about helping children and young adults achieve their goals and thrive in their communities, we encourage you to apply! 
 
      </p>
-     <h1 className="text-blue-500 text-xl sm:text-2xl md:text-4xl  font-bold pt-16"> <Link href="/job-application" className="texh-blue text-[16px] hover:text-gray-700 "> Join Our Team Click Here </Link></h1>
+     <h1 className="text-blue-500 text-xl sm:text-2xl md:text-4xl  font-bold pt-16"> <Link href="/job-application" className="text-blue-500 text-xl sm:text-2xl md:text-4xl  font-bold pt-16"> Join Our Team Click Here </Link></h1>
   <button className="text-  px-4     rounded-md">
    
    </button>
