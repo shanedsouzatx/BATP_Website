@@ -11,7 +11,7 @@ export default function Hero() {
       {/* Column 1 */}
       <div className="flex-1 text-lg text-gray-600">
         <p>
-          At Behaviour Analysis & Therapy Partners (BATP), we are dedicated to making a positive impact in the lives of children, youth, and young adults. We’re looking for compassionate and skilled individuals to join our team in providing high-quality behavioral health services.
+          At Behavior Analysis & Therapy Partners (BATP), we are dedicated to making a positive impact in the lives of children, youth, and young adults. We’re looking for compassionate and skilled individuals to join our team in providing high-quality behavioral health services.
         </p>
       </div>
   

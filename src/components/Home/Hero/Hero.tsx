@@ -107,7 +107,7 @@ const Hero: React.FC = () => {
 
         {/*  */}
 
-        <h2 className="text-3xl font-semibold pt-4">Who Pays for Services</h2>
+        <h2 className="text-3xl font-semibold pt-4">Who Pays for Services?</h2>
 
         <p className="text-lg text-gray-600">
         {/* All services are free to families . */}
