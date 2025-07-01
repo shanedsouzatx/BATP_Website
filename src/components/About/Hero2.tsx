@@ -30,16 +30,16 @@ const Hero2: React.FC = () => {
         <h2 className="text-3xl font-bold">Joseph Cautilli, Ph.D., MSCP, LP, LPC, LBS, BCBA-D, C-DBT, CMNCS 
         </h2> 
 
-        <h2 className="text-3xl -mt-[20px] lg:-mt-0 md:text-4xl text-black font-bold mb-4">
-          <strong>
-            Licensed Psychologist, PA, NJ, DE <br />
-            Licensed Professional Counselor<br />
-            Licensed Behavior Specialist<br />
-            Board Certified Behavior Analyst- Doctoral Level<br />
-            Certified Dialectical Behavior Therapy<br />
-            Certified Mental Health & Nutrition Clinical Specialist<br />
-            </strong>
-        </h2>
+        <h2 className="text-3xl mt-0 md:text-4xl lg:mt-0 text-black font-bold mb-4">
+  <strong>
+    Licensed Psychologist, PA, NJ, DE <br />
+    Licensed Professional Counselor <br />
+    Licensed Behavior Specialist <br />
+    Board Certified Behavior Analyst- Doctoral Level <br />
+    Certified Dialectical Behavior Therapy <br />
+    Certified Mental Health & Nutrition Clinical Specialist
+  </strong>
+</h2>
         <h2 className="text-md font-bold">Co-Founder & Clinical Director  
         </h2>
 
