@@ -1,8 +1,8 @@
-// File: C:\Users\HP Z400\Documents\BATP_Website-main\src\app\about-us\page.tsx
-import * as entry from '../../../../src/app/about-us/page.js'
+// File: D:\Shahrukh\BATP_Website\src\app\page.tsx
+import * as entry from '../../../src/app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
-type TEntry = typeof import('../../../../src/app/about-us/page.js')
+type TEntry = typeof import('../../../src/app/page.js')
 
 // Check that the entry is a valid entry
 checkFields<Diff<{

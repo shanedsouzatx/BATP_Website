@@ -24,14 +24,25 @@ const Hero2mble: React.FC = () => {
        <div className="container">
 
        <h1 className="text-2xl -mt-[20px] lg:-mt-0 md:text-3xl text-black font-bold mb-4">
-       Leadership Teams
+       Leadership Team
         </h1>       
        </div>
         <p className="text-lg text-black">
         At Behavior Analysis & Therapy Partners (BATP), our leadership team brings together a wealth of experience and expertise in behavioral health. Each member provides exceptional care and support to our clients and their families. </p>
         {/*  */}
-        <h2 className="text-3xl font-bold pt-5 ">Joseph Cautilli, Ph.D.
-        </h2> <h2 className="text-md font-bold">Co-Founder & Clinical Director  
+        <h2 className="text-3xl font-bold pt-5 ">Joseph Cautilli, Ph.D., MSCP, LP, LPC, LBS, BCBA-D, C-DBT, CMNCS 
+        </h2> 
+         <h2 className=" ">
+          <strong>
+            Licensed Psychologist, PA, NJ, DE <br />
+            Licensed Professional Counselor <br />
+            Licensed Behavior Specialist <br />
+            Board Certified Behavior Analyst- Doctoral Level <br />
+            Certified Dialectical Behavior Therapy <br />
+            Certified Mental Health & Nutrition Clinical Specialist
+          </strong>
+        </h2>
+        <h2 className="text-md font-bold">Co-Founder & Clinical Director  
         </h2>
         <p className="text-lg text-black">
         Dr. Joseph Cautilli is a licensed clinical psychologist, professional counselor, and a Board-Certified Behavior Analyst-D. With a career spanning since 1984, he has addressed the behavioral health and rehabilitation needs of children and adults facing severe mental health conditions, emotional behavior disorders, and psychiatric disorders, including autism spectrum disorders, depression, and developmental disabilities. Additionally, Dr. Cautilli has experience in criminal justice, focusing on the rehabilitation of offenders in both jails and the community. He is internationally recognized for his treatment work and adherence to ethical standards. 
@@ -43,12 +54,12 @@ const Hero2mble: React.FC = () => {
         </h2>
         <p className="text-lg text-black">
         Gary Ames is a licensed clinical psychologist and co-founder of BATP. He is currently focused on special projects that aim to enhance the quality of work life within the organization.
-He recently presented a poster at the 50th Applied Behavior Analysis International Convention in 2024, showcasing a BATP-sponsored neurofeedback project in two South Philadelphia schools. For more information  
- <Link href="/biofeedback-neurofeedback-eeg" className="text-blue-500 hover:text-blue-700"> Click Here </Link>
- BATP does not offer Neurofeedback.
-Gary also runs a private practice specializing in neurofeedback.
-Learn more at:
-<Link href="https://www.CalmFocus.com" className="text-blue-500 hover:text-blue-700">www.CalmFocus.com</Link>
+          He recently presented a poster at the 50th Applied Behavior Analysis International Convention in 2024, showcasing a BATP-sponsored neurofeedback project in two South Philadelphia schools. For more information  
+          <Link href="/biofeedback-neurofeedback-eeg" className="text-blue-500 hover:text-blue-700"> Click Here </Link>
+          BATP does not offer Neurofeedback.
+          Gary also runs a private practice specializing in neurofeedback.
+          Learn more at:
+          <Link href="https://www.CalmFocus.com" className="text-blue-500 hover:text-blue-700">www.CalmFocus.com</Link>
         </p>
        
         {/*  */}
