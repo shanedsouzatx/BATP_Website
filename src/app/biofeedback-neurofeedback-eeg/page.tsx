@@ -5,7 +5,7 @@ const Biofeedback: React.FC = () => {
     <div className="max-w-8xl mx-auto overflow-x-auto pt-[210px] lg:pt-[240px] p-6 px-11  ">
       {/* Page Heading */}
       <h1 className="text-3xl md:text-4xl font-bold text-green-700 mb-6">
-        Neurofeedback Program Overview
+        Neurofeedback Program Overviewa
       </h1>
 
       {/* First Section */}

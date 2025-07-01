@@ -41,6 +41,11 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/services/page.js"
+    ],
+    "/biofeedback-neurofeedback-eeg/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/biofeedback-neurofeedback-eeg/page.js"
     ]
   }
 }
