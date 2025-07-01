@@ -32,6 +32,7 @@ const Hero2mble: React.FC = () => {
         {/*  */}
         <h2 className="text-3xl font-bold pt-5 ">Joseph Cautilli, Ph.D., MSCP, LP, LPC, LBS, BCBA-D, C-DBT, CMNCS 
         </h2> 
+            <br />
          <h2 className=" ">
           <strong>
             Licensed Psychologist, PA, NJ, DE <br />
@@ -42,6 +43,7 @@ const Hero2mble: React.FC = () => {
             Certified Mental Health & Nutrition Clinical Specialist
           </strong>
         </h2>
+        <br />
         <h2 className="text-md font-bold">Co-Founder & Clinical Director  
         </h2>
         <p className="text-lg text-black">
