@@ -197,6 +197,7 @@ View the proposal: &nbsp;
             >
                “Neurofeedback in Schools Program” (PDF)
             </a> */}
+             
               <Link
         href="/pdf/Neurofeedback-in-Schools.pdf"
         target="_blank"
@@ -226,6 +227,7 @@ View the proposal: &nbsp;
               {" "}
               “Neurofeedback Training Outcomes in Children” (PDF)
             </a>{" "} */}
+                
                 <Link
         href="/pdf/Neurofeedback_Training_Outcomes_in_Children.pdf"
         target="_blank"
