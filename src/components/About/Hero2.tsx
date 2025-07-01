@@ -21,7 +21,7 @@ const Hero2: React.FC = () => {
        <div className="container">
 
        <h1 className="text-2xl -mt-[20px] lg:-mt-0 md:text-3xl text-black font-bold mb-4">
-       Leadership Team
+       Leadership Teams
         </h1>       
        </div>
         <p className="text-lg text-black">
