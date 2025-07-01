@@ -44,12 +44,21 @@ const Biofeedback: React.FC = () => {
             50th Applied Behavior Analysis International Convention,
             highlighting the outcomes of our Neurofeedback program.
           </p>
-          <a
-            href="https://demodesignz.com/projects/grey/wp-content/uploads/2025/01/ABAI_Presentation_GA-1.pdf"
+          {/* <a
+            href="ABAI_Presentation_GA-1.pdf"
             className="text-[#CF337A]  mt-5 mb-4 hover:text-gray-800 "
           >
             View the poster presentation here
-          </a>
+          </a> */}
+          <Link
+        href="/pdf/ABAI_Presentation_GA-1.pdf"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="text-pink-800 "
+      >
+       View the poster presentation here
+      </Link>
+          
           <p className="text-gray-800 mt-3 ">
             At BATP, we transform lives by providing the gold standard of
             behavioral health care for children: Applied Behavior Analysis (ABA)
@@ -103,10 +112,17 @@ const Biofeedback: React.FC = () => {
           <p className="text-gray-800 mt-2 mb-2">
             Gary Ames and Joe Cautilli co-authored an article discussing how
             neurofeedback aligns with ABA principles. Read the article:{" "}
-            <a href="https://n1536252.websitebuilder.online/wp-content/uploads/go-x/u/a2df9afe-4204-43ab-ade9-fe8c97109f59/Neurofeedback-is-a-form-of-Applied-Behavior-Analysis.pdf"      className="text-[#CF337A] py-5 z-[999] hover:text-gray-900">
+            {/* <a href="https://n1536252.websitebuilder.online/wp-content/uploads/go-x/u/a2df9afe-4204-43ab-ade9-fe8c97109f59/Neurofeedback-is-a-form-of-Applied-Behavior-Analysis.pdf"      className="text-[#CF337A] py-5 z-[999] hover:text-gray-900">
               “Neurofeedback is a Form of Applied Behavior Analysis”  (PDF)
-            </a>
-           
+            </a> */}
+                <Link
+        href="/pdf/Neurofeedback-is-a-form-of-Applied-Behavior-Analysis.pdf"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="text-pink-800 "
+      >
+       “Neurofeedback is a Form of Applied Behavior Analysis”  (PDF)
+      </Link>
           </p>
           {/* <a href='https://demodesignz.com/projects/grey/wp-content/uploads/2025/01/ABAI_Presentation_GA-1.pdf' className="text-red-600 font-bold py-9 " target="_blank">View the poster presentation here</a> */}
         </div>
@@ -175,12 +191,20 @@ const Biofeedback: React.FC = () => {
 <span className="pt-3 mt-4 py-9 z-[999] ">
 View the proposal: &nbsp; 
 </span>
-            <a
+            {/* <a
               href="https://n1536252.websitebuilder.online/wp-content/uploads/go-x/u/0624b328-33fd-4d2b-a99c-df74c56d4cae/Neurofeedback-in-Schools.pdf"
               className="text-[#CF337A] hover:text-gray-900 z-[999] py-6 "
             >
                “Neurofeedback in Schools Program” (PDF)
-            </a>
+            </a> */}
+              <Link
+        href="/pdf/Neurofeedback-in-Schools.pdf"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="text-pink-800 "
+      >
+        “Neurofeedback in Schools Program” (PDF)
+      </Link>
           </p>
         </div>
         <div className="md:w-1/3 md:mt-72"></div>
@@ -194,14 +218,22 @@ View the proposal: &nbsp;
           <p className="text-gray-800 mt-2 ">
             We tracked the results of students who completed the neurofeedback
             training sessions, and the findings are promising. See the results:
-            <a
+            {/* <a
               href="https://demodesignz.com/projects/grey/wp-content/uploads/2025/01/Neurofeedback_Training_Outcomes_in_Children.pdf"
               className="text-[#CF337A] hover:text-gray-800 "
            
            >
               {" "}
               “Neurofeedback Training Outcomes in Children” (PDF)
-            </a>{" "}
+            </a>{" "} */}
+                <Link
+        href="/pdf/Neurofeedback_Training_Outcomes_in_Children.pdf"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="text-pink-800 "
+      >
+        “Neurofeedback Training Outcomes in Children” (PDF)
+      </Link>
           </p>
         </div>
         <div className="md:w-1/3 md:mt-72"></div>
