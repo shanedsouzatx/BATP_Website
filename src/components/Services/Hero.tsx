@@ -110,7 +110,7 @@ export default function Hero() {
      ⦁	We collaborate with psychiatrists, schools, and social services to provide comprehensive care.
 
      </p>   <p className="text-[18px]  text-black mt-2">
-     ⦁	Each child’s plan is guideds
+     ⦁	Each child’s plan is guided
       by a Functional Behavior Analysis (FBA), 504 Plan, or Individualized Education Program.
 
      </p>

@@ -3,5 +3,6 @@
   "/about-us/page": "app/about-us/page.js",
   "/join-our-team/page": "app/join-our-team/page.js",
   "/services/page": "app/services/page.js",
-  "/biofeedback-neurofeedback-eeg/page": "app/biofeedback-neurofeedback-eeg/page.js"
+  "/biofeedback-neurofeedback-eeg/page": "app/biofeedback-neurofeedback-eeg/page.js",
+  "/_not-found/page": "app/_not-found/page.js"
 }
