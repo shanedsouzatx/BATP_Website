@@ -42,7 +42,7 @@ export async function POST(request: Request) {
 
     const emailMap: EmailMapping = {
       Philadelphia: {
-        "Employment (HR)": "mailbatp@gmail.com",
+        "Employment (HR)": "kareema.graham@batp.org",
         "Services (Case Management)": "samantha.power@batp.org",
         "Other (office)": "williampower@batp.org"
       },
