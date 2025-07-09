@@ -122,13 +122,17 @@ export async function POST(request: Request) {
     }
 
     const locationEmails: Record<string, string> = {
-      "Bala Cynwyd Office": "qwenton.balawejder@batp.org",
-      "Philadelphia Office": "samantha.power@batp.org",
-      "South Philadelphia Satellite Office": "williampower@batp.org",
+      // "Bala Cynwyd Office": "qwenton.balawejder@batp.org,",
+      "Bala Cynwyd Office": "kareema.graham@batp.org",
+
+      // "Philadelphia Office": "samantha.power@batp.org",
+      "Philadelphia Office": "kareema.graham@batp.org",
+      // "South Philadelphia Satellite Office": "williampower@batp.org",
+      "South Philadelphia Satellite Office": "kareema.graham@batp.org",
     };
 
     const location = formData.get('location') as string;
-    const recipientEmail = locationEmails[location] || "williampower@batp.org";
+    const recipientEmail = locationEmails[location] || "kareema.graham@batp.org"; //williampower@batp.org
 
     if (!process.env.EMAIL_USER || !process.env.EMAIL_PASSWORD) {
       throw new Error('Email service is not properly configured.');
