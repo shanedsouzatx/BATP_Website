@@ -43,22 +43,22 @@ export async function POST(request: Request) {
     const emailMap: EmailMapping = {
       Philadelphia: {
         "Employment (HR)": "kareema.graham@batp.org",
-        "Services (Case Management)": "samantha.power@batp.org",
+        "Services (Case Management)": "williampower@batp.org",
         "Other (office)": "williampower@batp.org"
       },
       Bucks: {
        "Employment (HR)": "kareema.graham@batp.org",
-        "Services (Case Management)": "qwenton.balawejder@batp.org",
+        "Services (Case Management)": "ChantelleBosier@batp.org",
         "Other (office)": "chantellebosier@batp.org"
       },
       Delaware: {
         "Employment (HR)": "kareema.graham@batp.org",
-        "Services (Case Management)": "qwenton.balawejder@batp.org",
+        "Services (Case Management)": "ChantelleBosier@batp.org",
         "Other (office)": "chantellebosier@batp.org"
       },
       Montgomery: {
         "Employment (HR)": "kareema.graham@batp.org",
-        "Services (Case Management)": "qwenton.balawejder@batp.org",
+        "Services (Case Management)": "ChantelleBosier@batp.org",
         "Other (office)": "chantellebosier@batp.org"
       }
     };
